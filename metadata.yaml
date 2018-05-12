@@ -1,4 +1,5 @@
 _repo: The-Poetical-Works-of-Alexander-Pope-Volume-1_9413
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Gilfillan, George
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '3126'
     url: http://www.gutenberg.org/2009/agents/3126
     wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pope, Alexander
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/907
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9413#The-Poetical-Works-of-Alexander-Pope-Volume-1
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
